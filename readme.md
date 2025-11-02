@@ -16,10 +16,11 @@ This project examines whether sentiment from stock-related Reddit posts correlat
 ### Installation
 
 **Clone the repository**
-    ```bash
+```bash
    git clone https://github.com/Raumfahrer007/stock_news_analyzer.git
    cd stock_news_analyzer
-
+```
 ### Start Notebook
-    ```bash
+```bash
     jupyter notebook notebooks/analysis.ipynb
+```
