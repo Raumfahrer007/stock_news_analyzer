@@ -15,7 +15,7 @@ This project examines whether sentiment from stock-related Reddit posts correlat
 
 ### Installation
 
-1. **Clone the repository**
+**Clone the repository**
     ```bash
    git clone https://github.com/Raumfahrer007/stock_news_analyzer.git
    cd stock_news_analyzer
